@@ -1,1 +1,1 @@
-print('Hello, COP3045!')
+print('Hello, students!')
